@@ -17,3 +17,5 @@ telegram @bigurator
 discord IllIA#2251
 
 steam [bigurator](https://steamcommunity.com/id/bigurator)
+
+revolt 01FGSNE02TN7NHC9GX5E8EQQWK
