@@ -14,7 +14,7 @@ wire [@bigurator](void "захожу очень редко")
 
 telegram [@bigurator](void "Захожу очень часто")
 
-discord [IllIA#2251](void Постояяно сижу в дискорде можешь написать")
+discord [IllIA#2251](void "Постояяно сижу в дискорде можешь написать")
 
 steam [bigurator](https://steamcommunity.com/id/bigurator "ну а это стим мой")
 
