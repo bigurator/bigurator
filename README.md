@@ -1,6 +1,6 @@
 Hi, I’m Illia Hrebelnyk
 
-//![TEST](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Geodynamo_Between_Reversals.gif/200px-Geodynamo_Between_Reversals.gif "Нравится картинка")
+../TEST](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Geodynamo_Between_Reversals.gif/200px-Geodynamo_Between_Reversals.gif "Нравится картинка")
 
 I’m studying at the [KPI](https://kpi.ua/ "Да я тут учусь вроде")
 
