@@ -6,6 +6,8 @@ I’m studying at the [KPI](https://kpi.ua/ "Да я тут учусь врод�
 
 Email <a href="mailto:bigurator@gmail.com">bigurator@gmail.com</a>
 
+Email <a href="mailto:bigurator@ukr.net">bigurator@ukr.net</a>
+
 youtube chanel [Illia Hrebelnyk](https://www.youtube.com/channel/UCOrX0FITra5eMdoZ2eJri1Q "Мой ютабчик ютабчик это хорошо можешь посмотреть мои плейлисты")
 
 instagram [bigurator](https://www.instagram.com/bigurator "Выкладываю редко что либо")
