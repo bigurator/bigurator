@@ -10,11 +10,11 @@ github [bigurator](https://github.com/bigurator "You are here")
 
 reddit [bigurator](https://www.reddit.com/user/bigurator/ "Незнаю зачем оно тут же пусто")
 
-wire [@bigurator]( "захожу очень редко")
+wire [@bigurator](void "захожу очень редко")
 
-telegram [@bigurator]( "Захожу очень часто")
+telegram [@bigurator](void "Захожу очень часто")
 
-discord [IllIA#2251]( Постояяно сижу в дискорде можешь написать")
+discord [IllIA#2251](void Постояяно сижу в дискорде можешь написать")
 
 steam [bigurator](https://steamcommunity.com/id/bigurator "ну а это стим мой")
 
