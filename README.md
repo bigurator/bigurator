@@ -1,6 +1,6 @@
 Hi, I’m Illia Hrebelnyk
 
-![TEST](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Geodynamo_Between_Reversals.gif/200px-Geodynamo_Between_Reversals.gif)
+![TEST](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Geodynamo_Between_Reversals.gif/200px-Geodynamo_Between_Reversals.gif "Нравится картинка")
 
 I’m studying at the [KPI](https://kpi.ua/ "Да я тут учусь вроде")
 
@@ -14,10 +14,12 @@ reddit [bigurator](https://www.reddit.com/user/bigurator/ "Незнаю заче
 
 wire [@bigurator](void "захожу очень редко")
 
-telegram [@bigurator](void "Захожу очень часто")
+[viber](viber://add?number=380969427096)
+
+telegram [@bigurator](https://t.me/bigurator "Захожу очень часто")
 
 discord [IllIA#2251](void "Постояяно сижу в дискорде можешь написать")
 
 steam [bigurator](https://steamcommunity.com/id/bigurator "ну а это стим мой")
 
-revolt [01FGSNE02TN7NHC9GX5E8EQQWK](void "Вообще незнаю что это и не запускаю но оно есть")
+revolt [01FGSNE02TN7NHC9GX5E8EQQWK](void "Захожу никогда только если вы не напишете")
