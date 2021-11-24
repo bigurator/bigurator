@@ -1,26 +1,22 @@
 Hi, I’m Illia Hrebelnyk
 
-<!--EST](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Geodynamo_Between_Reversals.gif/200px-Geodynamo_Between_Reversals.gif "Нравится картинка")</!-->
+I’m studying at the [KPI](https://kpi.ua/)
 
-I’m studying at the [KPI](https://kpi.ua/ "Да я тут учусь вроде")
+Email [bigurator@gmail.com](mailto:bigurator@gmail.com)
 
-Email <a href="mailto:bigurator@gmail.com">bigurator@gmail.com</a>
+Email [bigurator@ukr.net](mailto:bigurator@ukr.net)
 
-Email <a href="mailto:bigurator@ukr.net">bigurator@ukr.net</a>
-
-Email [marktest@ukr.net](mailto:bigurator@ukr.net "моя почка")
-
-telegram [@bigurator](https://t.me/bigurator "Захожу очень часто")
+telegram [@bigurator](https://t.me/bigurator)
 
 discord IllIA#2251
 
-youtube chanel [Illia Hrebelnyk](https://www.youtube.com/channel/UCOrX0FITra5eMdoZ2eJri1Q "Мой ютабчик ютабчик это хорошо можешь посмотреть мои плейлисты")
+youtube chanel [Illia Hrebelnyk](https://www.youtube.com/channel/UCOrX0FITra5eMdoZ2eJri1Q)
 
-instagram [bigurator](https://www.instagram.com/bigurator?r=nametag "Выкладываю редко что либо")
+instagram [bigurator](https://www.instagram.com/bigurator?r=nametag)
 
-github [bigurator](https://github.com/bigurator/bigurator "You are here")
+github [bigurator](https://github.com/bigurator/bigurator)
 
-reddit [bigurator](https://www.reddit.com/user/bigurator/ "Незнаю зачем оно тут же пусто")
+reddit [bigurator](https://www.reddit.com/user/bigurator/)
 
 
 
@@ -28,6 +24,8 @@ reddit [bigurator](https://www.reddit.com/user/bigurator/ "Незнаю заче
 steam [bigurator](https://steamcommunity.com/id/bigurator "ну а это стим мой")
 
 
-<!-- wire [@bigurator](void "захожу очень редко") 
+<!-- 
+EST](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Geodynamo_Between_Reversals.gif/200px-Geodynamo_Between_Reversals.gif "Нравится картинка")
+wire [@bigurator](void "захожу очень редко") 
 revolt [01FGSNE02TN7NHC9GX5E8EQQWK](void "Захожу никогда")
 -->
