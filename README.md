@@ -18,7 +18,7 @@ reddit [bigurator](https://www.reddit.com/user/bigurator/ "Незнаю заче
 
 telegram [@bigurator](https://t.me/bigurator "Захожу очень часто")
 
-discord [IllIA#2251](void "Постояяно сижу в дискорде можешь написать")
+discord IllIA#2251 void "Постояяно сижу в дискорде можешь написать")
 
 steam [bigurator](https://steamcommunity.com/id/bigurator "ну а это стим мой")
 
