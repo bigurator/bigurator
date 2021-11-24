@@ -1,8 +1,10 @@
 Hi, I’m Illia Hrebelnyk
 
-![TEST](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Geodynamo_Between_Reversals.gif/200px-Geodynamo_Between_Reversals.gif "Нравится картинка")
+//![TEST](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Geodynamo_Between_Reversals.gif/200px-Geodynamo_Between_Reversals.gif "Нравится картинка")
 
 I’m studying at the [KPI](https://kpi.ua/ "Да я тут учусь вроде")
+
+Email <a href="mailto:bigurator@gmail.com">bigurator@gmail.com</a>
 
 youtube chanel [Illia Hrebelnyk](https://www.youtube.com/channel/UCOrX0FITra5eMdoZ2eJri1Q "Мой ютабчик ютабчик это хорошо можешь посмотреть мои плейлисты")
 
@@ -14,7 +16,7 @@ reddit [bigurator](https://www.reddit.com/user/bigurator/ "Незнаю заче
 
 wire [@bigurator](void "захожу очень редко")
 
-viber ![+380969427096](https://cdn.discordapp.com/attachments/586084127485329411/913042002877218866/Screenshot_2021-11-24-14-18-21-955_com.viber.voip.jpg)
+//viber ![+380969427096](https://cdn.discordapp.com/attachments/586084127485329411/913042002877218866/Screenshot_2021-11-24-14-18-21-955_com.viber.voip.jpg)
 
 telegram [@bigurator](https://t.me/bigurator "Захожу очень часто")
 
