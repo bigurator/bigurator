@@ -1,28 +1,21 @@
 Hi, I’m Illia Hrebelnyk
 
-I’m studying at the KPI
+I’m studying at the [KPI](https://kpi.ua/ "Да я тут учусь вроде")
 
-<p>Я создал ссылку на
-  <a href="https://www.mozilla.org/ru/"
-     title="Лучшее место для поиска дополнительной информации
-     о миссии Mozilla и о том, как внести свой вклад">домашнюю страницу Mozilla
-  </a>.
-</p>
+youtube chanel [Illia Hrebelnyk](https://www.youtube.com/channel/UCOrX0FITra5eMdoZ2eJri1Q "Мой ютабчик ютабчик это хорошо можешь посмотреть мои плейлисты)
 
-youtube chanel [Illia Hrebelnyk](https://www.youtube.com/channel/UCOrX0FITra5eMdoZ2eJri1Q)
+instagram [bigurator](https://www.instagram.com/bigurator "Выкладываю редко что либо")
 
-instagram [bigurator](https://www.instagram.com/bigurator)
+github [bigurator](https://github.com/bigurator "You are here")
 
-github [bigurator](https://github.com/bigurator)
+reddit [bigurator](https://www.reddit.com/user/bigurator/ "Незнаю зачем оно тут же пусто")
 
-reddit [bigurator](https://www.reddit.com/user/bigurator/)
+wire [@bigurator]("захожу очень редко")
 
-wire @bigurator
+telegram [@bigurator]("Захожу очень часто")
 
-telegram @bigurator
-
-discord IllIA#2251
+discord [IllIA#2251](Постояяно сижу в дискорде можешь написать")
 
 steam [bigurator](https://steamcommunity.com/id/bigurator)
 
-revolt 01FGSNE02TN7NHC9GX5E8EQQWK
+revolt [01FGSNE02TN7NHC9GX5E8EQQWK]("Вообще незнаю что это и не запускаю но оно есть")
