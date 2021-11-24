@@ -14,7 +14,7 @@ reddit [bigurator](https://www.reddit.com/user/bigurator/ "Незнаю заче
 
 wire [@bigurator](void "захожу очень редко")
 
-[viber](viber://add?number=380969427096)
+viber [+380969427096](https://cdn.discordapp.com/attachments/586084127485329411/913042002877218866/Screenshot_2021-11-24-14-18-21-955_com.viber.voip.jpg)
 
 telegram [@bigurator](https://t.me/bigurator "Захожу очень часто")
 
