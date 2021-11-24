@@ -2,6 +2,13 @@ Hi, I’m Illia Hrebelnyk
 
 I’m studying at the KPI
 
+<p>Я создал ссылку на
+  <a href="https://www.mozilla.org/ru/"
+     title="Лучшее место для поиска дополнительной информации
+     о миссии Mozilla и о том, как внести свой вклад">домашнюю страницу Mozilla
+  </a>.
+</p>
+
 youtube chanel [Illia Hrebelnyk](https://www.youtube.com/channel/UCOrX0FITra5eMdoZ2eJri1Q)
 
 instagram [bigurator](https://www.instagram.com/bigurator)
