@@ -8,6 +8,12 @@ Email <a href="mailto:bigurator@gmail.com">bigurator@gmail.com</a>
 
 Email <a href="mailto:bigurator@ukr.net">bigurator@ukr.net</a>
 
+Email [marktest@ukr.net](mailto:bigurator@ukr.net "моя почка")
+
+telegram [@bigurator](https://t.me/bigurator "Захожу очень часто")
+
+discord IllIA#2251
+
 youtube chanel [Illia Hrebelnyk](https://www.youtube.com/channel/UCOrX0FITra5eMdoZ2eJri1Q "Мой ютабчик ютабчик это хорошо можешь посмотреть мои плейлисты")
 
 instagram [bigurator](https://www.instagram.com/bigurator?r=nametag "Выкладываю редко что либо")
@@ -16,9 +22,8 @@ github [bigurator](https://github.com/bigurator/bigurator "You are here")
 
 reddit [bigurator](https://www.reddit.com/user/bigurator/ "Незнаю зачем оно тут же пусто")
 
-telegram [@bigurator](https://t.me/bigurator "Захожу очень часто")
 
-discord IllIA#2251
+
 
 steam [bigurator](https://steamcommunity.com/id/bigurator "ну а это стим мой")
 
