@@ -18,13 +18,11 @@ reddit [bigurator](https://www.reddit.com/user/bigurator/ "Незнаю заче
 
 telegram [@bigurator](https://t.me/bigurator "Захожу очень часто")
 
-discord IllIA#2251 void "Постояяно сижу в дискорде можешь написать")
+discord IllIA#2251
 
 steam [bigurator](https://steamcommunity.com/id/bigurator "ну а это стим мой")
 
 
 <!-- wire [@bigurator](void "захожу очень редко") 
-revolt [01FGSNE02TN7NHC9GX5E8EQQWK](void "Захожу никогда только если вы не напишете")
+revolt [01FGSNE02TN7NHC9GX5E8EQQWK](void "Захожу никогда")
 -->
-
-Пока всё
