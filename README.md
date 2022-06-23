@@ -1,5 +1,5 @@
 Hi, I’m Illia Hrebelnyk\
-I’m studying at the [KPI](https://kpi.ua/)/
+I’m studying at the [KPI](https://kpi.ua/)\
 Email [bigurator@gmail.com](mailto:bigurator@gmail.com)\
 Email [bigurator@ukr.net](mailto:bigurator@ukr.net)\
 telegram [@bigurator](https://t.me/bigurator)\
